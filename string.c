@@ -23,6 +23,7 @@ int main(void)
       
    printf("string lenght of %s = %d\n", s[i], my_strlen(s[i]));
    changes changed printf("string lenght of %s = %d\n", s[i], my_strlen(s[i]) changed);
+   new additions
 
    return 0;
 }
